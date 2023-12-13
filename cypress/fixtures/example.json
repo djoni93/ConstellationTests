@@ -1,0 +1,9 @@
+{
+  "emailCorrect": "zdravkovic.nikola3@gmail.com",
+  "passwordCorrect": "constel123",
+  "emailIncorrect": "zdravkovic.nikola33@gmail.com",
+  "passwordIncorrect": "constel1234",
+  "passwordTooShort": "con",
+  "emailInvalidFormat": "zdravkovic@test",
+  "randomPostCommentText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+}
